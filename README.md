@@ -1,4 +1,4 @@
-![Choco Dwi](img/github-header-image.png)
+![Choco Dwi](github-header-image.png)
 
 <!--
 **choco-dwi/choco-dwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
